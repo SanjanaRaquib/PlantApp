@@ -1,7 +1,6 @@
 # plant_app
 
-A new Flutter project.
-
+This is a Plant App created using Flutter, the UI is very simple and clean. It is a guide for people who forgets to water their plants and a gentle reminder of when should they do it next.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
